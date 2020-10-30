@@ -1,0 +1,23 @@
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/bin/iPhoneSimulator/Debug/TipCalc.iOS.exe
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/bin/iPhoneSimulator/Debug/TipCalc.iOS.pdb
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/bin/iPhoneSimulator/Debug/MvvmCross.dll
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/bin/iPhoneSimulator/Debug/MvvmCross.pdb
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.nativelibrary.dll
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/bin/iPhoneSimulator/Debug/TipCalc.Core.dll
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/bin/iPhoneSimulator/Debug/TipCalc.Core.pdb
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-14.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-14.1/actool/_PartialAppManifest.items
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-14.1/actool/_BundleResourceWithLogicalName.items
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-14.1/coremlc/_PartialAppManifest.items
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-14.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-14.1/optimized/
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/obj/iPhoneSimulator/Debug/TipCalc.iOS.csprojAssemblyReference.cache
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/obj/iPhoneSimulator/Debug/TipCalc.iOS.csproj.CoreCompileInputs.cache
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/obj/iPhoneSimulator/Debug/TipCalc.iOS.csproj.CopyComplete
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/obj/iPhoneSimulator/Debug/TipCalc.iOS.exe
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/obj/iPhoneSimulator/Debug/TipCalc.iOS.pdb

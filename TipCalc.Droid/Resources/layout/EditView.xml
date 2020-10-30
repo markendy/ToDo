@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	<EditText
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/EditText" />
+	<Button
+		android:text="SUBMIT"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/SubmitButton"
+		android:background="#50FF50"/>
+    <Button
+		android:text="Back"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/BackButton"
+		android:background="#909090"/>
+</LinearLayout>

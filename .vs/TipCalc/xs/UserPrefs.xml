@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{9F649F0F-E5E4-4A40-B292-80A73EE88D01}|Default">
+  <MonoDevelop.Ide.ItemProperties.TipCalc.Droid AndroidDesignerPreferredTheme="Theme.AppCompat.Light" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalc.iOS/Views/TableViewCell.cs">
+    <Files>
+      <File FileName="TipCalc.iOS/Views/TableViewCell.cs" Line="21" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TipCalc" expanded="True">
+            <Node name="TipCalc.Core" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="TipCalc.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="TableViewCell.cs" selected="True" />
+                <Node name="TipView.cs" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TipCalc.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.82298E8E-ACE5-4DB7-80CB-089F0B7CA62D" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/AppDelegate.cs" relfile="TipCalc.iOS/AppDelegate.cs" line="21" column="1" />
+      <Breakpoint file="/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/Views/TableViewCell.designer.cs" relfile="TipCalc.iOS/Views/TableViewCell.designer.cs" line="19" column="1" />
+      <Breakpoint file="/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/Views/EditView.designer.cs" relfile="TipCalc.iOS/Views/EditView.designer.cs" line="12" column="1" />
+      <Breakpoint file="/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/Views/TableViewCell.cs" relfile="TipCalc.iOS/Views/TableViewCell.cs" line="55" column="1" />
+      <Breakpoint file="/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/Main.cs" relfile="TipCalc.iOS/Main.cs" line="10" column="1" />
+      <Breakpoint file="/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/Views/MainViewDataSource.cs" relfile="TipCalc.iOS/Views/MainViewDataSource.cs" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
