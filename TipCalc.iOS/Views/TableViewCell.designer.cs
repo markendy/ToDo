@@ -12,26 +12,37 @@ using UIKit;
 namespace ToDo.iOS.View
 {
     [Register ("TableViewCell")]
-    partial class TableViewCell
+    public partial class TableViewCell
     {
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UIButton DeleteButton { get; set; }
+        UIButton DeleteButton { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UIButton EditButton { get; set; }
+        UIButton EditButton { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UIButton OkButton { get; set; }
+        UIButton OkButton { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UILabel Text { get; set; }
+        UILabel Text { get; set; }
+
+        [Outlet]
+        [GeneratedCode("iOS Designer", "1.0")]
+        UIView ContentView { get; set; }
+
 
         void ReleaseDesignerOutlets ()
         {
+            if (ContentView != null)
+            {
+                ContentView.Dispose();
+                ContentView = null;
+            }
+
             if (DeleteButton != null) {
                 DeleteButton.Dispose ();
                 DeleteButton = null;

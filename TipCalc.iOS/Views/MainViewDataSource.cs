@@ -25,15 +25,9 @@ namespace TipCalc.UI.iOS.Views
         }
 
  
-
-        //      ---     ---     ---     ---     ---
-
-   
-
         protected override UITableViewCell GetOrCreateCellFor(UITableView tableView, NSIndexPath indexPath, object item)
         {
             var cell = ((TableViewCell)tableView.DequeueReusableCell(nameof(TableViewCell), indexPath));
-            cell.Prepare();
             return cell;
         }
     }

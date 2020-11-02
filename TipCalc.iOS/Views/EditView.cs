@@ -20,7 +20,6 @@ namespace ToDo.iOS.View
             set.Bind(SubmitButton.Tap()).For(x=>x.Command).To(vm => vm.SubmitRecordCommand);
             set.Bind(BackButton.Tap()).For(x => x.Command).To(vm => vm.BackRecordCommand);
             set.Bind(TextField).For(v=>v.Text).To(vm => vm.Text).TwoWay();
-
             set.Apply();
         }
 

@@ -6,3 +6,4 @@
 /Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.csproj.CoreCompileInputs.cache
 /Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.dll
 /Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.pdb
+/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.csprojAssemblyReference.cache

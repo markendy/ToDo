@@ -6,7 +6,7 @@ using UIKit;
 namespace ToDo.iOS.View
 {
     [Register("EditView")]
-    partial class EditView
+    public partial class EditView
     {
         [Outlet]
         [GeneratedCode("iOS Desiner", "1.0")]
