@@ -1,1 +1,6 @@
-
+TipCalc.Core/bin
+TipCalc.Core/obj
+TipCalc.Droid/obj
+TipCalc.Droid/bin
+TipCalc.iOS/bin
+TipCalc.iOS/obj
