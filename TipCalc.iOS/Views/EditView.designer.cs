@@ -10,7 +10,7 @@ namespace ToDo.iOS.View
     {
         [Outlet]
         [GeneratedCode("iOS Desiner", "1.0")]
-        UITextField TextField { get; set; }
+        UITextView TextView { get; set; }
         [Outlet]
         [GeneratedCode("iOS Desiner", "1.0")]
         UIButton SubmitButton { get; set; }
@@ -21,10 +21,10 @@ namespace ToDo.iOS.View
 
         void ReleaseDesignerOutlets()
         {
-            if (TextField != null)
+            if (TextView != null)
             {
-                TextField.Dispose();
-                TextField = null;
+                TextView.Dispose();
+                TextView = null;
             }
             if (SubmitButton != null)
             {

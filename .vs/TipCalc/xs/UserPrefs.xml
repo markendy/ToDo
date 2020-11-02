@@ -1,11 +1,22 @@
 ﻿<Properties StartupConfiguration="{9F649F0F-E5E4-4A40-B292-80A73EE88D01}|Default">
   <MonoDevelop.Ide.ItemProperties.TipCalc.Droid AndroidDesignerPreferredTheme="Theme.AppCompat.Light" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.192.168.56.101:5555" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalc.iOS/Views/EditView.cs">
+    <Files>
+      <File FileName="TipCalc.iOS/Views/EditView.cs" Line="24" Column="1" />
+      <File FileName="TipCalc.Core/ViewModels/EditViewModel.cs" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TipCalc" expanded="True">
-            <Node name="TipCalc.iOS" selected="True" />
+            <Node name="TipCalc.Core" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="TipCalc.iOS" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="EditView.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>

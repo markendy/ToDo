@@ -12,42 +12,53 @@
         <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="44" id="cxk-wN-pdQ" customClass="TableViewCell">
             <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" ambiguous="YES" tableViewCell="cxk-wN-pdQ" id="YTl-1W-gDM" userLabel="ContentView">
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="cxk-wN-pdQ" id="YTl-1W-gDM" userLabel="ContentView">
                 <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
-                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="jK4-z5-nPw" userLabel="Text">
-                        <rect key="frame" x="16" y="11" width="42" height="21"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" highlighted="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jK4-z5-nPw" userLabel="Text">
+                        <rect key="frame" x="0.0" y="0.0" width="230" height="44"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="230" id="bnr-sL-C2f"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="17"/>
                         <nil key="textColor"/>
                         <nil key="highlightedColor"/>
                     </label>
-                    <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" id="IqK-5w-veX" userLabel="OkButton">
-                        <rect key="frame" x="205" y="7" width="30" height="30"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                        <state key="normal" title="OK"/>
-                    </button>
-                    <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" id="2oW-YZ-i3P" userLabel="EditButton">
-                        <rect key="frame" x="245" y="7" width="30" height="30"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2oW-YZ-i3P" userLabel="EditButton">
+                        <rect key="frame" x="260" y="7" width="30" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="30" id="JSp-TN-T0Z"/>
+                        </constraints>
                         <state key="normal" title="ED"/>
                     </button>
-                    <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" id="eYd-X8-QKC" userLabel="DeleteButton">
-                        <rect key="frame" x="285" y="7" width="30" height="30"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eYd-X8-QKC" userLabel="DeleteButton">
+                        <rect key="frame" x="290" y="7" width="30" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="30" id="NZA-9f-xUE"/>
+                        </constraints>
                         <state key="normal" title="DL"/>
+                    </button>
+                    <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="252" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IqK-5w-veX" userLabel="OkButton">
+                        <rect key="frame" x="230" y="7" width="30" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="30" id="ol7-Wm-2Gw"/>
+                        </constraints>
+                        <state key="normal" title="OK"/>
                     </button>
                 </subviews>
                 <constraints>
-                    <constraint firstItem="2oW-YZ-i3P" firstAttribute="centerX" secondItem="eYd-X8-QKC" secondAttribute="centerX" constant="-40" id="0Bk-Pv-Cz4"/>
-                    <constraint firstItem="IqK-5w-veX" firstAttribute="centerY" secondItem="YTl-1W-gDM" secondAttribute="centerY" id="61e-6Q-q7o"/>
-                    <constraint firstItem="jK4-z5-nPw" firstAttribute="centerX" secondItem="YTl-1W-gDM" secondAttribute="leading" id="OVk-La-MUV"/>
-                    <constraint firstItem="2oW-YZ-i3P" firstAttribute="centerY" secondItem="YTl-1W-gDM" secondAttribute="centerY" id="SZA-25-B64"/>
-                    <constraint firstItem="IqK-5w-veX" firstAttribute="centerX" secondItem="2oW-YZ-i3P" secondAttribute="centerX" constant="-40" id="YyS-sq-6Lh"/>
-                    <constraint firstItem="eYd-X8-QKC" firstAttribute="centerX" secondItem="YTl-1W-gDM" secondAttribute="trailing" constant="-20" id="lDm-fx-dQo"/>
-                    <constraint firstItem="eYd-X8-QKC" firstAttribute="centerY" secondItem="YTl-1W-gDM" secondAttribute="centerY" id="mpE-99-DtV"/>
-                    <constraint firstItem="jK4-z5-nPw" firstAttribute="centerY" secondItem="YTl-1W-gDM" secondAttribute="centerY" id="uml-MP-B0q"/>
+                    <constraint firstItem="2oW-YZ-i3P" firstAttribute="trailing" secondItem="eYd-X8-QKC" secondAttribute="leading" id="2KC-KU-NoP"/>
+                    <constraint firstItem="jK4-z5-nPw" firstAttribute="trailing" secondItem="IqK-5w-veX" secondAttribute="leading" id="8AJ-AB-8CR"/>
+                    <constraint firstItem="IqK-5w-veX" firstAttribute="trailing" secondItem="2oW-YZ-i3P" secondAttribute="leading" id="9cE-b3-hQQ"/>
+                    <constraint firstItem="jK4-z5-nPw" firstAttribute="leading" secondItem="YTl-1W-gDM" secondAttribute="leading" id="L3g-qc-YIV"/>
+                    <constraint firstItem="eYd-X8-QKC" firstAttribute="centerY" secondItem="jK4-z5-nPw" secondAttribute="centerY" id="Ulh-2e-GP0"/>
+                    <constraint firstItem="jK4-z5-nPw" firstAttribute="bottom" secondItem="YTl-1W-gDM" secondAttribute="bottom" id="Xwa-Hv-ocF"/>
+                    <constraint firstItem="2oW-YZ-i3P" firstAttribute="centerY" secondItem="jK4-z5-nPw" secondAttribute="centerY" id="bM3-HV-mGF"/>
+                    <constraint firstItem="eYd-X8-QKC" firstAttribute="trailing" secondItem="YTl-1W-gDM" secondAttribute="trailing" id="dmn-ox-BJg"/>
+                    <constraint firstItem="jK4-z5-nPw" firstAttribute="top" secondItem="YTl-1W-gDM" secondAttribute="top" id="g7h-Fg-hqk"/>
+                    <constraint firstItem="IqK-5w-veX" firstAttribute="leading" secondItem="jK4-z5-nPw" secondAttribute="trailing" id="i3k-19-Qx8"/>
+                    <constraint firstItem="IqK-5w-veX" firstAttribute="centerY" secondItem="jK4-z5-nPw" secondAttribute="centerY" id="qc2-iX-evb"/>
                 </constraints>
             </tableViewCellContentView>
             <viewLayoutGuide key="safeArea" id="m2W-FR-aw8"/>

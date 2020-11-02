@@ -19,7 +19,7 @@ namespace ToDo.iOS.View
             var set = this.CreateBindingSet<EditView, EditViewModel>();
             set.Bind(SubmitButton.Tap()).For(x=>x.Command).To(vm => vm.SubmitRecordCommand);
             set.Bind(BackButton.Tap()).For(x => x.Command).To(vm => vm.BackRecordCommand);
-            set.Bind(TextField).For(v=>v.Text).To(vm => vm.Text).TwoWay();
+            set.Bind(TextView).For(v=>v.Text).To(vm => vm.Text).TwoWay();
             set.Apply();
         }
 

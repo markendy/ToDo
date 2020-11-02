@@ -1,0 +1,9 @@
+/Users/ddp/Documents/ToDoDroid+iOS/TipCalc.Core/bin/Debug/netstandard2.0/TipCalc.Core.deps.json
+/Users/ddp/Documents/ToDoDroid+iOS/TipCalc.Core/bin/Debug/netstandard2.0/TipCalc.Core.dll
+/Users/ddp/Documents/ToDoDroid+iOS/TipCalc.Core/bin/Debug/netstandard2.0/TipCalc.Core.pdb
+/Users/ddp/Documents/ToDoDroid+iOS/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.csprojAssemblyReference.cache
+/Users/ddp/Documents/ToDoDroid+iOS/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.AssemblyInfoInputs.cache
+/Users/ddp/Documents/ToDoDroid+iOS/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.AssemblyInfo.cs
+/Users/ddp/Documents/ToDoDroid+iOS/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.csproj.CoreCompileInputs.cache
+/Users/ddp/Documents/ToDoDroid+iOS/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.dll
+/Users/ddp/Documents/ToDoDroid+iOS/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.pdb
