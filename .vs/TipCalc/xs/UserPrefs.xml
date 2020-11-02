@@ -5,22 +5,22 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TipCalc" expanded="True">
-            <Node name="TipCalc.Core" selected="True" />
+            <Node name="TipCalc.iOS" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.TipCalc.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B70AC34B-FCC4-40EF-AD6B-ACE0D0134F97" />
+  <MonoDevelop.Ide.ItemProperties.TipCalc.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5770F2FA-BBD6-4CB6-B6BE-223705DFA583" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/AppDelegate.cs" relfile="TipCalc.iOS/AppDelegate.cs" line="21" column="1" />
-      <Breakpoint file="/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/Views/EditView.designer.cs" relfile="TipCalc.iOS/Views/EditView.designer.cs" line="12" column="1" />
-      <Breakpoint file="/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.Core/ViewModels/EditViewModel.cs" relfile="TipCalc.Core/ViewModels/EditViewModel.cs" line="68" column="1" />
-      <Breakpoint file="/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.Core/ViewModels/EditViewModel.cs" relfile="TipCalc.Core/ViewModels/EditViewModel.cs" line="56" column="1" />
-      <Breakpoint file="/Users/ddp/Downloads/MvvmCross-Samples-master/TipCalc/TipCalc.iOS/Views/TableViewCell.cs" relfile="TipCalc.iOS/Views/TableViewCell.cs" line="27" column="1" />
+      <Breakpoint file="/Users/ddp/Documents/ToDoDroid+iOS/TipCalc.iOS/AppDelegate.cs" relfile="TipCalc.iOS/AppDelegate.cs" line="21" column="1" />
+      <Breakpoint file="/Users/ddp/Documents/ToDoDroid+iOS/TipCalc.iOS/Views/EditView.designer.cs" relfile="TipCalc.iOS/Views/EditView.designer.cs" line="12" column="1" />
+      <Breakpoint file="/Users/ddp/Documents/ToDoDroid+iOS/TipCalc.Core/ViewModels/EditViewModel.cs" relfile="TipCalc.Core/ViewModels/EditViewModel.cs" line="68" column="1" />
+      <Breakpoint file="/Users/ddp/Documents/ToDoDroid+iOS/TipCalc.Core/ViewModels/EditViewModel.cs" relfile="TipCalc.Core/ViewModels/EditViewModel.cs" line="56" column="1" />
+      <Breakpoint file="/Users/ddp/Documents/ToDoDroid+iOS/TipCalc.iOS/Views/TableViewCell.cs" relfile="TipCalc.iOS/Views/TableViewCell.cs" line="27" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
